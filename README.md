@@ -1,5 +1,5 @@
 <div align="center"> 
-<h1>Check these out</h1>
+<h1>Software I use daily</h1>
 <a href="https://gentoo.org/">
     <img src="gentoo.png" style="width:64px;height:64px;">
 </a>
