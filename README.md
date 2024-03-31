@@ -3,6 +3,9 @@
 <a href="https://gentoo.org/">
     <img src="gentoo.png" style="width:64px;height:64px;">
 </a>
+<a href="https://voidlinux.org/">
+    <img src="void.png" style="width:64px;height:64px;">
+</a>
 <a href="https://swaywm.org/">
     <img src="sway.png" style="width:64px;height:64px;">
 </a>
