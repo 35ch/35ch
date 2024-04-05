@@ -1,5 +1,3 @@
-<link href="styles.css" rel="stylesheet"></link>
-
 <div align="center"> 
 <h1>Software I use daily</h1>
 <a href="https://gentoo.org/">
